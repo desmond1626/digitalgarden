@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/030/steam-deck/"}
+{"dg-publish":true,"permalink":"/030/steam-deck/","tags":["gardenEntry"]}
 ---
 
 # 1 快捷键
